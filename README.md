@@ -8,6 +8,7 @@ It brings deep satisfaction with a positive result, as I am aware of the benefit
 🌱 During my studies I solved 15 cases
 
 ⚡ The stack used:
+
 Python, SQL, Pandas, Matplotlib, NumPy, SciPy, Seaborn, Scikit-learn, bootstrap, LightGBM, CatBoost, statsmodels, BERT, nltk, tf-idf, Keras, PyTorch, A/B-tests.
 
 
